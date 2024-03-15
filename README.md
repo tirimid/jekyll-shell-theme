@@ -16,3 +16,7 @@ utilitarian version with only support for what a minimalist site might need.
 * Removed ability of pages to load Javascript code
 * Removed all layouts except for `default`
 * Removed rounded corners around code blocks
+* Reduced line height
+* Added publishing information on pages
+* Added large title on pages
+* Changed header page title to site title
