@@ -20,3 +20,4 @@ utilitarian version with only support for what a minimalist site might need.
 * Added publishing information on pages
 * Added large title on pages
 * Changed header page title to site title
+* Made blockquotes boxed instead of indented
