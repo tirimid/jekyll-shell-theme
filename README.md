@@ -61,3 +61,4 @@ pages, simply run the pages build and deployment action on your GitHub repo.
 * Added large title on pages
 * Changed header page title to site title
 * Made blockquotes boxed instead of indented
+* Added table entry outline with internal padding
