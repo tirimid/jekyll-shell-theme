@@ -62,3 +62,5 @@ pages, simply run the pages build and deployment action on your GitHub repo.
 * Changed header page title to site title
 * Made blockquotes boxed instead of indented
 * Added table entry outline with internal padding
+* Added border and padding around images
+* Fixed Source Code Pro font import to Roboto Mono
